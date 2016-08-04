@@ -1,0 +1,17 @@
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/benmiller/Projects/RecursiveReality/Week3/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/benmiller/Projects/RecursiveReality/Week3/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/UnityEngine.dll
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/UnityEditor.dll
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/Mono.Cecil.dll
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/Unity.DataContract.dll
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/benmiller/Projects/RecursiveReality/Week3/Temp/bin/Debug/Mono.Cecil.Mdb.dll
